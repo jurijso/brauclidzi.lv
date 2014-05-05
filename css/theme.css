@@ -1,0 +1,29 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+	position: static;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+	margin: 5px 0;
+}
+.input-small{
+	width:  300px;
+}
+.input-xsmall{
+	width:  150px;
+}
+
+footer{
+	margin-top: 20px;
+}
+
+
+.select_empty{
+	color: #99999;
+}
